@@ -1,8 +1,8 @@
-🔥 Ini dia, deskripsi README yang super kece buat proyek **Link-in-Bio Supercharged ✨** kamu! Bisa kamu tempel langsung di GitHub biar keliatan profesional dan menggoda calon pengguna!
+🔥 Ini dia, deskripsi README yang super kece buat proyek **3d Link in Bio ✨** kamu! Bisa kamu tempel langsung di GitHub biar keliatan profesional dan menggoda calon pengguna!
 
 ---
 
-# Link-in-Bio Supercharged ✨
+# 3d Link in Bio ✨
 
 Sebuah halaman link-in-bio **modern**, **interaktif**, dan **super keren**. Lupakan Linktree yang biasa-biasa aja—ini next-level! 🚀
 
@@ -45,7 +45,7 @@ Sebuah halaman link-in-bio **modern**, **interaktif**, dan **super keren**. Lupa
 1. **Clone Repo:**
 
 ```bash
-git clone https://github.com/NAMA-KAMU/NAMA-REPO-KAMU.git
+git clone https://github.com/sulthonas15/3d-link-in-bio.git
 ```
 
 2. **Buka `index.html` di Browser**
@@ -73,7 +73,7 @@ Langsung buka aja buat lihat hasil awalnya.
 
 ## 📄 Lisensi
 
-Proyek ini berada di bawah [MIT License](LICENSE).
+Proyek ini berada di bawah sulthonas.
 Silakan modifikasi, pakai ulang, atau bagikan!
 
 ---

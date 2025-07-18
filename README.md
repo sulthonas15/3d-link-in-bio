@@ -1,7 +1,3 @@
-🔥 Ini dia, deskripsi README yang super kece buat proyek **3d Link in Bio ✨** kamu! Bisa kamu tempel langsung di GitHub biar keliatan profesional dan menggoda calon pengguna!
-
----
-
 # 3d Link in Bio ✨
 
 Sebuah halaman link-in-bio **modern**, **interaktif**, dan **super keren**. Lupakan Linktree yang biasa-biasa aja—ini next-level! 🚀

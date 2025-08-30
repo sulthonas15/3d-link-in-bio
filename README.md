@@ -2,8 +2,6 @@
 
 Sebuah halaman link-in-bio **modern**, **interaktif**, dan **super keren**. Lupakan Linktree yang biasa-biasa aja—ini next-level! 🚀
 
-> 🎥 **Pro Tip**: Rekam layar pas halaman dibuka dan ubah jadi GIF buat preview di GitHub atau medsos!
-
 ---
 
 ## 🌟 Fitur Utama
